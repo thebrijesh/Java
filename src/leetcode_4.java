@@ -33,7 +33,7 @@ public class leetcode_4 {
         int[] nums2 = {2, 4, 6, 8};
         int n = nums1.length + nums2.length;
         int[] arrmain = new int[n];
-
+int b = 00;
         int a = 0;
         double e = 0.0;
         int f = 0;
